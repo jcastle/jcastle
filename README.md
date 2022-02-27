@@ -1,4 +1,4 @@
-### Hello! 👋
+<img src="#" alt="banner that says Joseph Castle - open source software researcher, developer, and advocate">
 
 - Pronouns: He/Him
 - I’m currently working on updating my new GitHub profile and corresponding repositories. My [previous profile](https://github.com/jcastle-zz) is quite robust and worth a look. 
